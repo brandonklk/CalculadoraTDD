@@ -12,4 +12,14 @@ public class Calculator
         return valueOne - valueTwo;
     }
 
+    public Integer divisionNumber(Integer valueOne, Integer valueTwo)
+    {
+        return valueOne / valueTwo;
+    }
+
+    public Integer multiplicationNumber(Integer valueOne, Integer valueTwo)
+    {
+        return valueOne * valueTwo;
+    }
+
 }
